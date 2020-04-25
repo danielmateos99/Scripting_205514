@@ -1,0 +1,8 @@
+Daniel Mateos Manjón 
+205514
+
+In this Lab2 i followed some of the part 2 instructions adding the rendom spawn for the sheeps and the action of the heart 
+when they get hit. 
+Also I added a little modification where the sheeps rotate when they die 
+in addition to the action of shrinking (falling in their left side) and when they 
+reach the end falling head-on.
